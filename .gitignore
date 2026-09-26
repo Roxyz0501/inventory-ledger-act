@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+research/
+artifacts/
+dist/
+act/
+*.user
+*.log
+*.config.xml
+ledger*.json*
+.vs/
