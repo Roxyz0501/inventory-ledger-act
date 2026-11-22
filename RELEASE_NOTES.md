@@ -1,9 +1,3 @@
-v0.1.0-alpha.2 (2026-11-22)
-
-- ACTプラグイン開発プロジェクト共通の更新タブへ切り替え。更新確認、起動時確認設定、言語切替、更新準備を共通部品に接続。
-- 画面部品の共通参照試験は48比較すべて一致。実ゲームでの所持品取得検証は未完了。
-- 本プラグインの最終プレビュー版。以降の開発・更新予定なし。
-
 Inventory Ledger for ACT — experimental development build.
 
 Implemented: ACT network subscription, reference packet decoders for inventory/retainer/FC snapshots, local persistence, cross-owner search, list/icon views, CSV export, observed gil balance changes, four-language UI, optional support and verified stable-release update preparation.
